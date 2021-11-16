@@ -1,3 +1,9 @@
+Proyecto de integración continua 2021.
+
+Integrantes:
 Rafael Humberto Rubiano
 Jose Reinel Silva
 Luis Felipe López
+
+Institución Universitaria Politécnico Grancolombiano.
+Facultad de Ingenieria
