@@ -1,7 +1,7 @@
 Proyecto de integración continua 2021.
 
 Integrantes:
-Rafael Humberto Rubiano
+Rafael Humberto Rubiano Novoa
 Jose Reinel Silva
 Luis Felipe López
 
